@@ -104,12 +104,8 @@
 </p>
 ---
 
-## 🐍 Contribution Snake (Animated Effect)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sumit-ai-labs/sumit-ai-labs/output/github-contribution-grid-snake.svg"/>
-</p>
-
+## 🎮 6. Visitor Counter (small but cool)
+<img src="https://komarev.com/ghpvc/?username=sumit-ai-labs&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 ---
 
 ## ⚡ Fun Fact
