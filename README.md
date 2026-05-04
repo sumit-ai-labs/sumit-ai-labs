@@ -104,7 +104,7 @@
 </p>
 ---
 
-## 🎮 6. Visitor Counter (small but cool)
+## 🎮 6. Visitor Counter
 <img src="https://komarev.com/ghpvc/?username=sumit-ai-labs&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 ---
 
