@@ -72,9 +72,7 @@
 ### 🎨 Frontend & UI
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge\&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge\&logo=bootstrap)
-![Three.js](https://img.shields.io/badge/threejs-000000?style=for-the-badge)
-![Framer](https://img.shields.io/badge/framer-black?style=for-the-badge)
+
 
 ### ⚙️ Tools & Deployment
 
