@@ -48,19 +48,16 @@
 ### 🧠 AI / ML / Deep Learning
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge\&logo=python)
-![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge\&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge\&logo=pytorch)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge\&logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge\&logo=pandas)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge\&logo=numpy)
-![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge\&logo=opencv)
+
 
 ### 🤖 Generative AI & LLMs
 
 ![OpenAI](https://img.shields.io/badge/openai-412991?style=for-the-badge\&logo=openai)
 ![LangChain](https://img.shields.io/badge/langchain-000000?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/transformers-FF6F00?style=for-the-badge)
 
 ### 🌐 MERN Stack
 
